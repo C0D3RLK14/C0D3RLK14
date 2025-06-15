@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my GitHub Portfolio. This is still under construction though.
 
 <!--
 **C0D3RLK14/C0D3RLK14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
